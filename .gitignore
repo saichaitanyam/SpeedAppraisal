@@ -1,0 +1,6 @@
+__pycache__
+.env
+details/
+cookies.json
+*.json
+speed_datafetch.py
