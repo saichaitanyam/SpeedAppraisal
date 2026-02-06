@@ -2,6 +2,18 @@
 
 An automated workflow for processing annual appraisal data using web scraping and LLM-powered comment generation. This system extracts appraisal information from Ultimatix SPEED platform and generates contextually appropriate comments.
 
+## About
+
+The Continuous Feedback Automation System is designed to streamline the annual appraisal process by automating the most time-consuming aspects: data extraction and comment generation. Built for employees working with the Ultimatix SPEED platform, this tool leverages modern web automation and AI technologies to reduce manual effort while maintaining the personal touch required for meaningful performance feedback.
+
+This project addresses a common pain point in corporate environments where employees need to:
+- Manually extract appraisal data from multiple web pages
+- Draft thoughtful comments for goals and performance attributes
+- Ensure consistency in feedback language while maintaining authenticity
+- Spend valuable time on administrative tasks rather than meaningful reflection
+
+By combining Playwright for robust web automation with local LLM capabilities for intelligent comment generation, the system creates a seamless pipeline that preserves employee voice while dramatically reducing the time investment required for annual appraisals.
+
 ## Features
 
 - **Web Automation**: Automated login and data extraction from Ultimatix SPEED appraisal system
